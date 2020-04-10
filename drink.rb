@@ -144,8 +144,6 @@ class Large < Size
 end
 
 
-
-
 drink = DarkRoast.new
 drink = Whip.new(drink)
 size = Medium.new(drink)
