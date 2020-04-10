@@ -75,7 +75,6 @@ class Duck
 end
 
 
-
 class RedheadDuck < Duck
 end
 
