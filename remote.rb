@@ -9,7 +9,7 @@ class RemoteControl
     end
     @undo_command = no_command
   end
-
+  
   def set_command(off_command, on_command, slot)
     @on_commands[slot] = on_command
     @off_commands[slot] = off_command
